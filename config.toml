@@ -2,6 +2,7 @@ baseURL = "https://shane.li"
 languageCode = "en-us"
 title = "Shane (向文) Li"
 theme = "identity"
+publishDir = "."
 
 # Disable unnecessary kinds
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
