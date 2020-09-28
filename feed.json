@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Xiangwen (Shane) Li",
+    "description": "",
+    "home_page_url": "https://xiangwen.li",
+    "feed_url": "https://xiangwen.li/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Xiangwen Li"
+    },
+    "items": [
+    ]
+}
